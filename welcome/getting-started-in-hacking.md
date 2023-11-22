@@ -56,6 +56,11 @@ This site has a lot of binaries for forensic learning.
 ## [https://portswigger.net/web-security/dashboard](https://portswigger.net/web-security/dashboard)
 This website has a lot of web exploitation labs
 
+## [https://hackmyvm.eu/]
+
+## [https://vulnyx.com/]
+
+## [https://ctf.comunidadhackingetico.es/]
 
 <details>
 
